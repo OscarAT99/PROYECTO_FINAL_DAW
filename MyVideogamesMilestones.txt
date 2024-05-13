@@ -1,0 +1,53 @@
+Página para colección de juegos y ver qué juegos te has pasado, empezado etc
+
+Cada juego tendrá:
+-nombre
+-productor/a
+-desarrolladora
+-plataformas
+-año de lanzamiento
+-género
+-saga
+
+Todos los juegos tendrán una descripción del mismo.
+
+Si hay ciertos trucos o cosas necesarias que no son comunes saber, se podrá especificar (Por ejemplo, en Metal Gear Solid si lo juegas con emulador, hay ciertas partes que desconocerás cómo superarlas por no tener la caja original de PS1)
+
+Si pertenece a una saga no numerada, tendrá un indicador para saber cuál sería el orden cronológico y cuál el orden segun la fecha de lanzamiento original del juego.
+
+Dentro de cada juego pondrá los DLC que tiene (si son muchos complementos, quizás vaya separado).
+
+Los juegos sin historia no tendrán marca de cuánto has jugado (sin estrenar, abandonado, jugando, superado, platino, completado 100%).
+
+Si un juego tiene pase de batalla, quizás se podría marcar hasta qué punto de ese pase llegaste (habría que ver cómo de complejo es implementar esto individualmente).
+
+Podrás marcar que tienes un juego en físico o digital y para qué consolas, o si simplemente lo has jugado "prestado".
+
+Podrás marcar si te lo has pasado en coop, aunque este no tenga dicha opción.
+
+Cada juego podrá tener varias etiquetas para reconocerlo (Ejemplo: Pro Evolution Soccer, Pes; Metal Gear Solid, MGS).
+
+Si un juego tiene rangos online, podrás marcar el que tienes actualmente y el máximo al que llegaste.
+
+Los usuarios podrán añadir juegos o modificar los ya existentes.
+
+Si un juego tiene un remaster, podrás desde una sola página marcar qué versión te jugaste y/o pasaste.
+
+Podrás tener una lista de juegos deseados y otra de prioridades a jugar.
+
+Si tienes un juego a medias, podrás marcar la fase en la que estás, y quizás dependiendo del juego especificar rutas (la idea es que con la ayuda de una comunidad, puedas tener un resumen de lo hecho hasta ese punto, incluyendo habilidades que has aprendido si o si para avanzar en la historia u objetos/datos relevantes).
+
+Se podrá dejar una review usando 5 estrellas, las cuales irán de 0.5 en 0.5, y podrán detallar su review, y especificar si tiene spoilers.
+
+Las propias reviews tendrán un medidor de like y dislike para que tengan mayor o menor relevancia.
+
+Cada usuario tendrá su propia galería mostrando sus capturas favoritas, las cuales podrán marcarse como spoiler (incluso con moderación se podría determinar si los tiene).
+
+Cada usuario podrá crear listas de diferentes juegos según el criterio que vea conveniente.
+
+Los usuarios podrán agregar a otros como amigos.
+
+Los usuarios tendrán un diario para registrar cuándo empezaron un juego, poner qué consiguieron, y cuando lo finalizaron.
+
+En la busqueda de juegos, habrá un filtro para juegos fanmade, para que no se confundan con productos oficiales (Ejemplo: Si buscas Pokemon con el filtro desactivado, solo saldrán los oficiales de Nintendo, y en caso de activarlo, podrán salir las diferentes versiones hechas por fans como Pokemon Iberia).
+
